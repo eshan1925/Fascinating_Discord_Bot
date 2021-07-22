@@ -1,7 +1,7 @@
 # Fascinating_Discord_Bot
 Its a discord bot for keeping you motivated.
 
-$hello -> Bot replies "Hello"
+$hello -> Bot replies "Hello" \n
 $inspire -> Bot inspires you with a motivational quoate
 $new -> Add a new Motivational Message
 $del -> Deletes a particular motivational message at the given index after del
